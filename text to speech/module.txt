@@ -1,0 +1,5 @@
+
+To create a this application:
+Importing the module – 
+tkinter,
+pyttsx3 (CMD command to install it  ""pip install pyttsx3"")

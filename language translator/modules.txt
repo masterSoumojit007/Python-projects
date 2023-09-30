@@ -1,0 +1,4 @@
+# Language-translator
+translator using python
+only install
+pip install googletrans==3.1.0a0

@@ -1,0 +1,17 @@
+# Install the OpenCV-python library, which is used for computer vision tasks,
+# including image and video processing.
+pip install OpenCV-python
+
+# Install the pywin32 library, which provides Python bindings for the Windows API.
+# This library is used for interacting with Windows-specific functionality,
+# such as GUI automation.
+pip install pywin32
+
+# Install the NumPy library, which is a fundamental package for scientific computing
+# in Python. It provides support for arrays and matrices, making it useful for
+# numerical operations.
+pip install NumPy
+
+# Install the pyautogui library, which is used for simulating keyboard and mouse
+# interactions. It's often used for automating GUI tasks and creating macros.
+pip install pyautogui
